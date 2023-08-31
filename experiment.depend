@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1686174374 source:c:\users\mohitheswar\downloads\experiment\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<unistd.h>
+	<random>
+	<chrono>
+	<thread>
+	<fstream>
+
