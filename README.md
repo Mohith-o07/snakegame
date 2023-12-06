@@ -1,8 +1,8 @@
-### Snake Game using C++
+# Snake Game using C++
 
 This is a simple console-based Snake Game implemented in C++. The game allows the player to control a snake, represented by the character 'O', with the objective of eating fruits ('F') while avoiding collisions with the walls and the snake's own tail.
 
-### Instructions:
+## Instructions:
 
 1. **Compilation:**
    - The code is written in C++ and can be compiled using a C++ compiler (e.g., g++ for Linux, MinGW for Windows).
@@ -25,7 +25,7 @@ This is a simple console-based Snake Game implemented in C++. The game allows th
    - The game maintains a high score, which is stored in the "scores.txt" file.
    - If a player sets a new high score, they are prompted to enter their name.
 
-### How to Play:
+## How to Play:
 
 1. **Run the Game:**
    - Compile and run the source code.
@@ -44,7 +44,7 @@ This is a simple console-based Snake Game implemented in C++. The game allows th
    - After each game, you can choose to play again or quit.
    - Type "yes" to play again or "no" to exit.
 
-### Notes:
+## Notes:
 
 - The game uses the console for input and output.
 - The code utilizes C++ features such as file handling, random number generation, and basic input/output operations.
