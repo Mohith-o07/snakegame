@@ -1,4 +1,4 @@
-#### Snake Game using C++
+### Snake Game using C++
 
 This is a simple console-based Snake Game implemented in C++. The game allows the player to control a snake, represented by the character 'O', with the objective of eating fruits ('F') while avoiding collisions with the walls and the snake's own tail.
 
